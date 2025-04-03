@@ -1,4 +1,4 @@
-# PyTorch Performance Tips and Common Pitfalls
+# PyTorch Pitfalls
 
 
 ## PyTorch
